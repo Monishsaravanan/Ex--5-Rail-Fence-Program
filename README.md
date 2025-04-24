@@ -100,3 +100,4 @@ int main() {
 # OUTPUT
 ![Screenshot 2025-04-24 140637](https://github.com/user-attachments/assets/0abfba12-0b43-4167-bc5c-d30516bb990b)
 # Result
+The program is executed successfully
